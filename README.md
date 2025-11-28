@@ -47,6 +47,7 @@ cp .env.example .env   # editar valores
 npm install
 npm run dev             # abre em http://localhost:5173
 ```
+Adendo: faça login usando dev/dev
 
 ### Integração
 - Ajuste `VITE_API_BASE_URL` (quando criado) para apontar para a porta do backend (ex.: `http://localhost:3001`).
